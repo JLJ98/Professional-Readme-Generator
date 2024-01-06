@@ -49,7 +49,6 @@ ${renderLicenseSection(data.license)}
 `;
 }
 
-`;
-}
-
 module.exports = generateMarkdown;
+
+
